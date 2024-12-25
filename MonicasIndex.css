@@ -1,0 +1,20 @@
+html{
+    
+    background-image:url("MonicasWallpaper.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: rgb(133, 194, 247);
+}
+body{
+    .esqueleto{
+        position: absolute;
+        width: 25%;
+        height: 50%;
+        top: 1000px;
+        right: 0;
+        bottom: -100px;
+        left: 0;
+    }
+}
